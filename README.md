@@ -135,7 +135,8 @@ unban  - to unban a use
 
 
 ### Thanks to 
- - Thanks To EvaMaria Devs For Their AutoFIlterBot
+ - Thanks To EvaMaria
+ - Thanks Piro buddy :)
  - Thanks To Me For Wasting Time On This Repo Instead Of Work :)
 
  ### Note 🏷️
