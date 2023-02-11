@@ -66,7 +66,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/ritheshrkrm/PiroAutoFilterBot">
+<a href="https://heroku.com/deploy?template=https://github.com/Vipzzk/TGpushpan">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -75,7 +75,7 @@
 <details><summary>Deploy To Koyeb</summary>
 <b>The fastest way to deploy the application is to click the Deploy to Koyeb button below.</b>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/ritheshrkrm/PiroAutoFilterBot&branch=main&name=pirobot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Vipzzk/TGpushpan&branch=main&name=pirobot)
 </details>
 
 <details><summary>Deploy on Railway</summary>
@@ -87,7 +87,7 @@
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/ritheshrkrm/PiroAutoFilterBot
+git clone https://github.com/Vipzzk/TGpushpan
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -129,20 +129,20 @@ unban  - to unban a use
 
 ### Thanks to 
  - Thanks To EvaMaria Devs For Their AutoFIlterBot
- - Thanks To Me For Wasting Time On This Repo Instead Of Studying :)
+ - Thanks To Me For Wasting Time On This Repo Instead Of Work :)
 
  ### Note 🏷️
  - <b>Importing this repo instead of forking is strictly prohibited 🚫 Kindly fork and edit as your wish (Must Give Credits for devs) 🙃</b>
  - <b>If you find any bugs or errors, report it to the developer.</b>
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/raixchat)
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/Vipzzk)
 
 ### TELAGRAM SUPPORT 
 
-* [![PIRO BOTZ](https://img.shields.io/static/v1?label=PIRO&message=BOTZ&color=critical)](https://telegram.me/rai_info17)
+* [![Vipzz K](https://img.shields.io/static/v1?label=PIRO&message=BOTZ&color=critical)](https://telegram.me/Vipzzk)
 
 
 
 ### Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/ritheshrkrm/PiroAutoFilterBot/blob/master/LICENSE)
+Licensed under [GNU AGPL 2.0.](https://github.com/Vipzzk/TGpushpan/blob/master/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
