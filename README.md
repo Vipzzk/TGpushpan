@@ -2,7 +2,7 @@
   <img src="assets/scriptdlogo.jpg">
 </p>
 <h1 align="center">
-  <b>PiroAutoFilterBot</b>
+  <b>ᴛᴇᴛᴇɢʀᴀᴍ ᴘᴜꜱʜᴘᴀɴ</b>
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=TELEGRAM+PUSHPAN;CREATED+BY+VIPZZ+K!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)</p>
