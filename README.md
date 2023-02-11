@@ -138,7 +138,7 @@ unban  - to unban a use
 
 ### TELAGRAM SUPPORT 
 
-* [![Vipzz K](https://img.shields.io/static/v1?label=PIRO&message=BOTZ&color=critical)](https://telegram.me/Vipzzk)
+* [![Vipzz K](https://img.shields.io/static/v1?label=VIPZZ&message=K&color=critical)](https://telegram.me/Vipzzk)
 
 
 
