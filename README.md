@@ -5,7 +5,7 @@
   <b>PiroAutoFilterBot</b>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&width=435&lines=TELEGRAM+PUSHPAN;ADVANCE+AUTO+FILTER+BOT;DEV+VIPZZ+K)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&width=435&lines=TELEGRAM+PUSHPAN;ADVANCE+AUTO+FILTER+BOT;DEV+VIPZZ+K)](https://git.io/typing-svg)</a>
 <a href="https://github.com/ritheshrkrm/PiroAutoFilterBot/network/members"> <img src="https://img.shields.io/github/forks/ritheshrkrm/PiroAutoFilterBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/ritheshrkrm/PiroAutoFilterBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
