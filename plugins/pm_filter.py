@@ -843,12 +843,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "start":
         buttons = [[
-                    InlineKeyboardButton('➕ 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉 ➕', url=f"http://t.me/{temp.U_NAME}?startgroup=true")
+                    InlineKeyboardButton('👉 ꜱᴇᴀʀᴄʜ ᴍᴏᴠɪᴇ 👈', url=f"https://t.me/Pushpan_telegram")
                 ],[
                     InlineKeyboardButton('ℹ️ 𝖧𝖾𝗅𝗉', callback_data='help'),
                     InlineKeyboardButton('😊 𝖠𝖻𝗈𝗎𝗍', callback_data='about')
                 ],[
-                    InlineKeyboardButton('🍿 ᴏꜰꜰɪᴄɪᴀʟ ɢʀᴏᴜᴘ', url=f"https://t.me/RequestTP")
+                    InlineKeyboardButton('🍿 ᴛᴇʟᴇɢʀᴀᴍ ᴘᴜꜱʜᴘᴀɴ 🍿 ', url=f"https://t.me/Pushpan_telegram")
                   ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
