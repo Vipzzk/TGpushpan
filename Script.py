@@ -37,7 +37,7 @@ class script(object):
 ○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣 
 ○ 𝖲𝖾𝗋𝗏𝖾𝗋 : VPS
 ○ 𝖡𝗎𝗂𝗅𝖽 𝖲𝗍𝖺𝗍𝗎𝗌 : v1.0.1 [BeTa]
-○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href='https://t.me/vipzz_support'>𝖳𝖺𝗉 𝖧𝖾𝗋𝖾</a>"""
+○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href='https://t.me/TGpushpanXbugss'>𝖳𝖺𝗉 𝖧𝖾𝗋𝖾</a>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
 പോയിട്ട് പിന്നെ വാ ആലോചിക്കാം .... 
@@ -182,7 +182,7 @@ Request Again"""
     OWNER_INFO = """
 ○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/vipzzk'>𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a>
 
-○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href='https://t.me/vipzz_support'>𝖳𝖺𝗉 𝖧𝖾𝗋𝖾</a>
+○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href='https://t.me/TGpushpanXbugss'>𝖳𝖺𝗉 𝖧𝖾𝗋𝖾</a>
 """
 
     NORSLTS = """
