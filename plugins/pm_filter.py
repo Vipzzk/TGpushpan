@@ -1360,7 +1360,7 @@ async def auto_filter(client, msg, spoll=False):
             **locals()
         )
     else:
-        cap = f"<b>👋 𝖧𝖾𝗒 {message.from_user.mention}\n📁 𝖸𝗈𝗎𝗋 𝖥𝗂𝗅𝖾𝗌 𝖠𝗋𝖾 𝖱𝖾𝖺𝖽𝗒\n\nCHANNEL CHANNEL\n🍿 @Pushpan_telegram\n🔔 @OTTupdatesTP</b>"
+        cap = f"<b>👋 𝖧𝖾𝗒 {message.from_user.mention}\n\n📁 𝖸𝗈𝗎𝗋 𝖥𝗂𝗅𝖾𝗌 𝖠𝗋𝖾 𝖱𝖾𝖺𝖽𝗒\n\n FOR NEW UPDATES JOIN\n🔔 @OTTupdatesTP</b>"
     if imdb and imdb.get('poster'):
         try:
             if message.chat.id == SUPPORT_CHAT_ID:
